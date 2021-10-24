@@ -6,4 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 Nice changes to the readme file!
 
-This change from GitHub!
+This change from GitHub for pull!
+
+This change from GitHub for fetch!
