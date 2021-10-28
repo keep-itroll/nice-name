@@ -11,11 +11,3 @@ This change from GitHub for pull!
 
 Would it work!
 
-
-some little changes
-
-
-another
-
-
-OK!
